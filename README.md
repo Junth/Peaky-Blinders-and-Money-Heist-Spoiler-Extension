@@ -1,4 +1,4 @@
-[![demo](https://img.shields.io/badge/view%20demo-youtube-orange.svg?style=for-the-badge&logo=appveyor)](https://www.youtube.com/watch?v=Tl_2dK9jfvU) <img src="./assets/icon48.png" border="10">
+[![demo](https://img.shields.io/badge/view%20demo-youtube-orange.svg?style=for-the-badge&logo=appveyor)<img src="./assets/icon48.png" border="10">](https://www.youtube.com/watch?v=Tl_2dK9jfvU)
 # Peaky Blinders and La Casa De Papel Spoiler Extension <img src="./assets/icon48.png" border="10">
 <p align="center">
   <img src="./assets/LOGO.png" border="10">
