@@ -58,4 +58,11 @@
 </p>
 
 **Youtube Demo:** [Peaky Blinders and Money Heist Spoiler Concealer Chrome Extension.](https://www.youtube.com/watch?v=Tl_2dK9jfvU)
+<h4 align="center">Enjoy Peaky Blinders and Money Heist Spoiler Concealer Chrome Extension.</h4>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Tl_2dK9jfvU" target="_blank"><img src="./assets/icon128.png"
+alt="Peaky Blinders and Money Heist Spoiler Concealer Chrome Extension" border="10" /></a>
+</p>
 
+# Liscense
+MIT
