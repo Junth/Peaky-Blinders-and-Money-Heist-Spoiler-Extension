@@ -65,6 +65,6 @@ alt="Peaky Blinders and Money Heist Spoiler Concealer Chrome Extension" border="
 </p>
 
 # References
-Creating A Basic Chrome Extension(https://www.thepolyglotdeveloper.com/2018/09/creating-basic-chrome-extension/)
+[Creating A Basic Chrome Extension](https://www.thepolyglotdeveloper.com/2018/09/creating-basic-chrome-extension/)
 # Liscense
 MIT
